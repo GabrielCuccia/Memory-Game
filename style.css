@@ -94,15 +94,16 @@ footer{
    .section-2{
     flex-direction: row;
     justify-content: space-around;
-    width: 400px;
-    height: 120px;
+    width: 380px;
+    height: 90px;
     border-radius: 0px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px ;
     
    }
-   h2{
-    font-size: 1em;
+   .estadisticas{
+    font-size: 0.8em;
+    height: 65px;
 
 
    
@@ -112,4 +113,11 @@ footer{
     margin-top: -40px
 
    };
+   .section-1{
+    width: 150px;
+   }
+   button{
+    height: 90px;
+    width: 90px;
+   }
 }
